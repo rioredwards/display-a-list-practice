@@ -11,7 +11,7 @@ export const plants = [
     },
     {
         name: 'Fern',
-        light: 'low-light',
+        light: 'low',
         water: 'low-med',
     },
 ];
