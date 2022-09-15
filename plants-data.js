@@ -1,16 +1,16 @@
 export const plants = [
     {
-        name: 'philodendron',
+        name: 'Philodendron',
         light: 'bright-indirect',
         water: 'low-med',
     },
     {
-        name: 'succulent',
+        name: 'Succulent',
         light: 'bright',
         water: 'low',
     },
     {
-        name: 'fern',
+        name: 'Fern',
         light: 'low-light',
         water: 'low-med',
     },
